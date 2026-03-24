@@ -1,0 +1,2 @@
+Malac,False
+Farkas,True
