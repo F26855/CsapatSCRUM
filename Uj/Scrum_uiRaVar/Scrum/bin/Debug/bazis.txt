@@ -1,0 +1,4 @@
+nagyi,False
+Helo,True
+qweqwe,True
+weqe,True
