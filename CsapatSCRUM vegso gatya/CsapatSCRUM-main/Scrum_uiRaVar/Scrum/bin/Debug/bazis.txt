@@ -1,0 +1,6 @@
+Malac,False
+Farkas,True
+Bandi,False
+Jani,False
+Kaki kivitele,False
+Bakkki,False
