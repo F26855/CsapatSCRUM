@@ -1,0 +1,4 @@
+Kaki,True,False
+Farkas,False,True
+sport,False,False
+sportolas,False,False
